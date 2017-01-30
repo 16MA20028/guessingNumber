@@ -268,6 +268,8 @@ int main(){
             
             //begin else ##2
             
+            even(a1);
+            
             /* Multiple of 4 */
             printf("Is your number multiple of 4? (Y or N)");
             scanf(" %c",&ans1);
